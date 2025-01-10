@@ -361,10 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-# Archivos de configuración con claves sensibles
-appsettings.json
-appsettings.Development.json
-
-# Configuración de Azure
-**/Servicios/ServicioAzureBlobStorage.cs
